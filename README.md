@@ -19,5 +19,11 @@ Run
 Get hold of some images of people you want to recognize. One file per person will do. Name the file after the person.
 Configure faces_folder_path in source. Run with python3.
 
+  Requirements
+numpy
+opencv-python
+dlib
+scikit-image
+
 
 
